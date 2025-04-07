@@ -1,0 +1,2 @@
+docker pull ghcr.io/nilsnolde/docker-valhalla/valhalla:latest
+docker run -dt --name valhalla_gis-ops -p 8002:8002 -v $PWD/custom_files:/custom_files ghcr.io/nilsnolde/docker-valhalla/valhalla:latest
