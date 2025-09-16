@@ -1,0 +1,14 @@
+# conda create python=3.10 -p [path to env]
+notebook
+torch 
+torchvision 
+torchaudio
+triton #optional, makes code go brr
+pyvalhalla
+pandas
+h5py
+matplotlib
+tqdm
+colored
+haversine
+fire
