@@ -40,3 +40,14 @@ python busbus\main.py inference path/to/the/model 1 --save_path=output/dir/file_
 ```
 TODO
 ```
+=======
+# BusBus
+Part of KEEPER project. Goal is to generate CAN-bus bus data
+
+This project is based on previous work done by [Yasoz](https://github.com/Yasoz)
+
+# Installation
+TODO! (pull, requirements.txt, Valhalla)
+
+# Usage
+TODO (data prep, train, infer, visualize)
